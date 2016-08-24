@@ -43,3 +43,4 @@ Shifting from internal engineering to community.
 - Schweik & English’s book looking at 174K projects on source forge - https://www.amazon.com/Internet-Success-Open-Source-Software-Commons/dp/0262017253/ & synopsis from Knight Lab - http://knightlab.northwestern.edu/2013/07/24/six-lessons-on-success-and-failure-for-open-source-software/
 - Defining success - http://crowston.syr.edu/sites/crowston.syr.edu/files/icis2003success.pdf
 - [from later conversation Don Marti ref CMU research]
+- [Open Source Maturity Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model)
